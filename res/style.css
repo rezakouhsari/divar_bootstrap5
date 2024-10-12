@@ -91,3 +91,12 @@ ul{
 .map_divar{
     height: 250px;
 }
+textarea{
+    resize: none;
+}
+textarea:focus{
+    box-shadow: none !important;
+}
+input:focus{
+    box-shadow: none !important;
+}
