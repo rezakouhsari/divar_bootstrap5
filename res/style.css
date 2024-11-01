@@ -100,3 +100,7 @@ textarea:focus{
 input:focus{
     box-shadow: none !important;
 }
+
+#menu_items a:hover{
+    color: rgb(197, 8, 8) !important;
+}
